@@ -1,10 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Program\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\repoditory\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1944E08-DC27-45C3-BFBC-19EFDE44FE4A}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Program\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{C1944E08-DC27-45C3-BFBC-19EFDE44FE4A}|Program.vcxproj|C:\\Users\\user\\Documents\\GitHub\\repoditory\\Program\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C1944E08-DC27-45C3-BFBC-19EFDE44FE4A}|Program.vcxproj|solutionrelative:source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC42D9F6-4552-41BC-950A-D319EA64E6DB}|..\\class1th (compile)\\class1th (compile).vcxproj|C:\\Users\\user\\Documents\\GitHub\\repoditory\\class1th (compile)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,46 +17,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 278,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "source.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\repoditory\\class1th (compile)\\source.c",
+              "RelativeDocumentMoniker": "..\\class1th (compile)\\source.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\repoditory\\class1th (compile)\\source.c",
+              "RelativeToolTip": "..\\class1th (compile)\\source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-11T11:23:46.636Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "source.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Program\\source.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\repoditory\\Program\\source.c",
               "RelativeDocumentMoniker": "source.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Program\\source.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\repoditory\\Program\\source.c",
               "RelativeToolTip": "source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-12-10T12:23:38.801Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 132,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
