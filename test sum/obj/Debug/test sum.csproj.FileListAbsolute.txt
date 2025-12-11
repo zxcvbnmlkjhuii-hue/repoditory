@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\test sum\bin\Debug\test sum.exe.config
+C:\Users\Administrator\Desktop\test sum\bin\Debug\test sum.exe
+C:\Users\Administrator\Desktop\test sum\bin\Debug\test sum.pdb
+C:\Users\Administrator\Desktop\test sum\obj\Debug\test sum.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\test sum\obj\Debug\test sum.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\test sum\obj\Debug\test sum.exe
+C:\Users\Administrator\Desktop\test sum\obj\Debug\test sum.pdb
+C:\Users\Administrator\Desktop\test sum\obj\Debug\test sum.exe.config

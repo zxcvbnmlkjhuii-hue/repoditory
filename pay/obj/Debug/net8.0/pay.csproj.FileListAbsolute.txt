@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\pay\bin\Debug\net8.0\pay.exe
+C:\Users\Administrator\Desktop\pay\bin\Debug\net8.0\pay.deps.json
+C:\Users\Administrator\Desktop\pay\bin\Debug\net8.0\pay.runtimeconfig.json
+C:\Users\Administrator\Desktop\pay\bin\Debug\net8.0\pay.dll
+C:\Users\Administrator\Desktop\pay\bin\Debug\net8.0\pay.pdb
+C:\Users\Administrator\Desktop\pay\obj\Debug\net8.0\pay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\pay\obj\Debug\net8.0\pay.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\pay\obj\Debug\net8.0\pay.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\pay\obj\Debug\net8.0\pay.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\pay\obj\Debug\net8.0\pay.dll
+C:\Users\Administrator\Desktop\pay\obj\Debug\net8.0\refint\pay.dll
+C:\Users\Administrator\Desktop\pay\obj\Debug\net8.0\pay.pdb
+C:\Users\Administrator\Desktop\pay\obj\Debug\net8.0\pay.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\pay\obj\Debug\net8.0\ref\pay.dll
