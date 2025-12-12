@@ -35,7 +35,7 @@
             }
             
             Console.WriteLine(x);
-            Console.ReadLine();
+            
         }
     }
 }

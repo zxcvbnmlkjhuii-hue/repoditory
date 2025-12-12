@@ -12,10 +12,10 @@ namespace test_sum
         static void Main(string[] args)
         {
             Console.WriteLine("계산기");
-            Console.WriteLine("숫자를 하나 입력해 주세요.");
+            Console.WriteLine("첫번째 숫자를 입력해 주세요.");
             string strA = Console.ReadLine();
 
-            Console.WriteLine("두번쨰하나 입력해 주세요.");
+            Console.WriteLine("두번쨰 숫자를 입력해 주세요.");
             string strB = Console.ReadLine();
 
 

@@ -47,7 +47,7 @@ void main()
 	// 서식을 넣을 수 있으며, 서식 지정자의 순서는 왼쪽에서
 	// 부터 시작합니다.
 
-	printf("character : %c \nnum : %d \ncar : %f", character,num,car);
+	printf("character : %c \nnum : %d \ncar : %f", character,num,car);	
 	
 	
 
