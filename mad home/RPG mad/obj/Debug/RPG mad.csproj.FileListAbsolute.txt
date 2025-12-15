@@ -1,0 +1,2 @@
+C:\Users\user\Desktop\mad home\RPG mad\obj\Debug\RPG mad.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\mad home\RPG mad\obj\Debug\RPG mad.csproj.CoreCompileInputs.cache
