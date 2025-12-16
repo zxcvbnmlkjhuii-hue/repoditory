@@ -7,15 +7,18 @@ using System.Threading.Tasks;
 
 namespace WhileEx
 {
-    enum Place      // 장소 열거형
+    enum Place      // 장소 열거형 보기 편하라고 
     {
         start,
         town,
         river,
         plain
     }
+    //private  - 내부에서만 접근이 가능하다
+    //public   - 외부에서 접근이 가능하다
+    //protected - 상속
 
-    class Monster
+    public class Monster
     {
         int lv = 3;
         int hp = 30;

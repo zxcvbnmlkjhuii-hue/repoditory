@@ -1,0 +1,8 @@
+C:\Users\user\Documents\GitHub\repoditory\Teststru\bin\Debug\Teststru.exe.config
+C:\Users\user\Documents\GitHub\repoditory\Teststru\bin\Debug\Teststru.exe
+C:\Users\user\Documents\GitHub\repoditory\Teststru\bin\Debug\Teststru.pdb
+C:\Users\user\Documents\GitHub\repoditory\Teststru\obj\Debug\Teststru.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\repoditory\Teststru\obj\Debug\Teststru.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\repoditory\Teststru\obj\Debug\Teststru.exe
+C:\Users\user\Documents\GitHub\repoditory\Teststru\obj\Debug\Teststru.pdb
+C:\Users\user\Documents\GitHub\repoditory\Teststru\obj\Debug\Teststru.exe.config
