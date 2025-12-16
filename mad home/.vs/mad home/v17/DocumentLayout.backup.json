@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\repoditory\\mad home\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3234108-E11A-47DD-A2CB-16BD129E491D}|..\\Teststru\\Teststru.csproj|c:\\users\\user\\documents\\github\\repoditory\\teststru\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4AD0ECA-C411-4FBE-A3EA-1606B760D6D4}|RPG EX\\RPG EX.csproj|C:\\Users\\user\\Documents\\GitHub\\repoditory\\mad home\\rpg ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4AD0ECA-C411-4FBE-A3EA-1606B760D6D4}|RPG EX\\RPG EX.csproj|solutionrelative:rpg ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4AD0ECA-C411-4FBE-A3EA-1606B760D6D4}|RPG EX\\RPG EX.csproj|c:\\users\\user\\documents\\github\\repoditory\\mad home\\rpg ex\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D4AD0ECA-C411-4FBE-A3EA-1606B760D6D4}|RPG EX\\RPG EX.csproj|solutionrelative:rpg ex\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F55D8F-BBA4-4173-A9AE-E03301D16F7A}|RPG mad\\RPG mad.csproj|c:\\users\\user\\documents\\github\\repoditory\\mad home\\rpg mad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F55D8F-BBA4-4173-A9AE-E03301D16F7A}|RPG mad\\RPG mad.csproj|solutionrelative:rpg mad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE69A1F-7F4A-4CD9-8171-4C4F8E61E21D}|mad home.csproj|C:\\Users\\user\\Documents\\GitHub\\repoditory\\mad home\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE69A1F-7F4A-4CD9-8171-4C4F8E61E21D}|mad home.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\repoditory\\Teststru\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Teststru\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\repoditory\\Teststru\\Program.cs*",
+              "RelativeToolTip": "..\\Teststru\\Program.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T09:23:53.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\repoditory\\mad home\\RPG EX\\App.config",
+              "RelativeDocumentMoniker": "RPG EX\\App.config",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\repoditory\\mad home\\RPG EX\\App.config",
+              "RelativeToolTip": "RPG EX\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-16T09:20:43.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\repoditory\\mad home\\RPG EX\\Program.cs",
+              "RelativeDocumentMoniker": "RPG EX\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\repoditory\\mad home\\RPG EX\\Program.cs",
+              "RelativeToolTip": "RPG EX\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvxIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T13:35:59.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\repoditory\\mad home\\RPG mad\\Program.cs",
+              "RelativeDocumentMoniker": "RPG mad\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\repoditory\\mad home\\RPG mad\\Program.cs",
+              "RelativeToolTip": "RPG mad\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T13:33:48.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\repoditory\\mad home\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\repoditory\\mad home\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T13:06:34.455Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

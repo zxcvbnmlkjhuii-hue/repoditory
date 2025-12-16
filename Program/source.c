@@ -2,65 +2,95 @@
 
 void main()
 {
-#pragma region 변수
-	// 데이터를 저장할 수 있는 메모리 공간을 생성하는 것입니다.
-# pragma region 자료형
-	// 데잍터를 저장하기 위해 데이터의 형태를 정해주는 것입니다.
+#pragma region 조건문
+	// 어떤 조건이 주어질 때 해당 조건에 따라 동작을
+	// 수행하도록 실행하는 명령문입니다.
+#pragma region 관계 연산자
+	// 두 개의 피연산자의 값을 비교하여 그 결과를 0 또는
+	// 1이라도 값으로 나타내는 연산자입니다.
 
-	// 자료형은 각각의 자료형마다 크기가 정해져 있으며, 자료형의
-	// 크기는 바이트 단위로 이루어져 있으며, 자료형의 경우 자료형에
-	// 따ㅏ라 저장할 수 있는 값의 종류와 범위가 결정됩니다.
+	//int accuracy = 10;
+	//int attack = 20;
+
+	//printf("accuracy < attack : %d\n", accuracy < attack);
+
+	//printf("accuracy > attack : %d\n", accuracy > attack);
+
+	//printf("accuracy <= attack : %d\n", accuracy <= attack);
+
+	//printf("accuracy >= attack : %d\n", accuracy >= attack);
+
+	//printf("accuracy != attack : %d\n", accuracy != attack);
+
+	//printf("accuracy == attack : %d\n", accuracy == attack);
+
+	// 관계 연산자는 조건이 맞을 때 1이라는 값으로 반환되며,
+	// 조건이 틀릴 때는 0이라는 값으로 반환됩니다.
 #pragma endregion
+#pragma region if문
+	// 어떤 특정한 조건을 비교하여 조건이 맞나면 실행되는
+	// 명령문입니다.
 
-#pragma region 변수의 이름 규칙
+	//int health = 0;
+	//if (health <= 0)
+	//{
+	//	printf("destroy");
+	//}
 
-	// 1. 변수 이름은 대소문자를 구분합니다.
-    // ex)int health;
-	// ex)int HEALTH;
-
-	// 2. 변수의 이름으로 예약어를 사용할 수 없습니다.
-	// ex) char char;X
-	
-	// 3. 변수의 이름에는 공백이 포함될 수 없습니다
-	// ex) fliat time Dellta;X
-
-	// 4. 변수의 이름으로 트거수 무너자 "_". "$"만 상용할 수 있습니다.
-	// ex)short under_score;
-	// ex)long currency$;
-
-	// 5. 변수의 이름은 숫자로 시작할 수 없습니다.
-	// ex)int yeat2025;
-	// ex)int 5day;X
-
-
-#pragma endregion
-
-#pragma region 서식 지정자
-	// 변수의 값을 출력하기 위한 자료형의 정보를 명시적으로
-	// 지정해주는 것입니다.
-
-	char character = 'A';
-	int num = 10;
-	float car = 5.5f;
-
-	// 서식 지정자의 경우 하나의 표준 출력 함수에 여러 개의
-	// 서식을 넣을 수 있으며, 서식 지정자의 순서는 왼쪽에서
-	// 부터 시작합니다.
-
-	printf("character : %c \nnum : %d \ncar : %f", character,num,car);
-	
-	
-
-	// 서식 지정자는 각각의 서식에 따라 원하는 데이터를 출력
-	// 할 수 있으며. 서식과 변수의 형태가 일치하지 않으면
-	// 원하는 값이 출력되지 않습니다.
-
-	
-
-	
-#pragma endregion
+	// if문은 조건이 1일 때 실행되며, 0일 때 실행되지 않습니다.
 
 
 #pragma endregion
+#pragma region else if문
+	// if문의 조건이 틀릴 때 else if문의 조건이
+	// 맞다면 실행되는 명령문입니다.
+
+	//int level = 1;
+
+	//if (level < 1)
+	//{
+	//	
+	//	printf("destroyA");
+	//}
+	//else if(level >= 1)
+	//{
+	//	printf("destroy");
+	//}
+
+	// else if문은 여러번 정의할 수 있으며,if문이
+	// 존재할 때 사용 할 수 있습니다.
+#pragma endregion
+#pragma region  else문
+	// if문과 else if문의 조건이 다 틀리면
+	// 실행되는 명령문입니다.
+
+<<<<<<< HEAD
+	int integer = 0;
+=======
+	printf("character : %c \nnum : %d \ncar : %f", character,num,car);	
+	
+	
+>>>>>>> 5ff6dfcf5f946dbad21e93f3f4ff2417149b9be5
+
+		if (integer > 0)
+		{
+			printf("+");
+		}
+		else if (integer < 0)
+		{
+			printf("-");
+		}
+		else
+		{
+			printf("integer");
+		}
+
+		// if문에 연결된 모든 조건문이 조건이 맞을 때
+		// 가장 위에 있는 조건문만 실행됩니다.
+#pragma endregion
+
+#pragma
+#pragma endregion
+
 
 }

@@ -14,57 +14,57 @@ namespace Trst1
 {
     internal class Program
     {
-        //static string TempFunc()
-        //{
-        //    Console.WriteLine("매서드1");
-        //    string str = "리턴";
-        //    return str;
-        //    Console.WriteLine("매1");
-        //}
+        static string TempFunc()
+        {
+            Console.WriteLine("매서드1");
+            string str = "리턴";
+            return str;
+            Console.WriteLine("매1");
+        }
         static void Main(string[] args)     //일단 문법
         {
-            //int i = 11; //i 값 정하기
-            //int l = 5;
-            //string str = TempFunc();
-            //string str2 = Console.ReadLine();
+            int i = 11; //i 값 정하기
+            int l = 5;
+            string str = TempFunc();
+            string str2 = Console.ReadLine();
 
-            //Console 
-            ////char c = '지';         //단일문자 저장
-            ////string s = "원하시는만큼 저장 가능";   //문자열 저장 쓰는 만큼 저장
-            ////Console.WriteLine(c);
-            ////Console.WriteLine(s);
+            Console
+            char c = '지';         //단일문자 저장
+            string s = "원하시는만큼 저장 가능";   //문자열 저장 쓰는 만큼 저장
+            Console.WriteLine(c);
+            Console.WriteLine(s);
 
-            ////int result;
-            ////result = i + l;
-            ////Console.WriteLine(result);
-            ////result = i - l;
-            ////Console.WriteLine(result);
-            ////result = i * l;
-            ////Console.WriteLine(result);
-            ////result = i / l;
-            ////Console.WriteLine(result);
+            int result;
+            result = i + l;
+            Console.WriteLine(result);
+            result = i - l;
+            Console.WriteLine(result);
+            result = i * l;
+            Console.WriteLine(result);
+            result = i / l;
+            Console.WriteLine(result);
 
-            ////int temp = i + (int)l; //큰거에서 작은거로 가면 렘누수가 생겨 (int)로 바꾼다
-            ////float f = 5.5f; //55.5 뒤에f 는 문법 같은거
-            ////double d = 5.5;  //상관 없음
-            //int lv = 3000;
+            int temp = i + (int)l; //큰거에서 작은거로 가면 렘누수가 생겨 (int)로 바꾼다
+            float f = 5.5f; //55.5 뒤에f 는 문법 같은거
+            double d = 5.5;  //상관 없음
+            int lv = 3000;
 
-            //Console.WriteLine(i);   //i 값 텍스트 출력
-            //Console.WriteLine(l);
-            //Console.WriteLine(lv);
-            //i = -77; //i -77 다시 정립
-            //Console.WriteLine("i 값을 바꿧습니다.");      //텍스트 출력
-            //Console.WriteLine(i);      //i 값 턱스트 출력
-            //Console.ReadLine();     // 전체 적으로 출력
-
-
-            ////Monster monsterA = new Monster();   //몬스터 생성
-            ////NPC NPC1 = new NPC();   //NPC 생성
-            ////NPC1.move();        //NPC1 움직였다
-            ////monsterA.move();    //몬스터A가 움직였다
+            Console.WriteLine(i);   //i 값 텍스트 출력
+            Console.WriteLine(l);
+            Console.WriteLine(lv);
+            i = -77; //i -77 다시 정립
+            Console.WriteLine("i 값을 바꿧습니다.");      //텍스트 출력
+            Console.WriteLine(i);      //i 값 턱스트 출력
+            Console.ReadLine();     // 전체 적으로 출력
 
 
-            //Console.ReadLine();
+            Monster monsterA = new Monster();   //몬스터 생성
+            NPC NPC1 = new NPC();   //NPC 생성
+            NPC1.move();        //NPC1 움직였다
+            monsterA.move();    //몬스터A가 움직였다
+
+
+            Console.ReadLine();
 
 
 

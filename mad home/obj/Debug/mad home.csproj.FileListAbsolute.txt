@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\mad home\bin\Debug\mad home.exe.config
+C:\Users\user\Desktop\mad home\bin\Debug\mad home.exe
+C:\Users\user\Desktop\mad home\bin\Debug\mad home.pdb
+C:\Users\user\Desktop\mad home\obj\Debug\mad home.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\mad home\obj\Debug\mad home.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\mad home\obj\Debug\mad home.exe
+C:\Users\user\Desktop\mad home\obj\Debug\mad home.pdb
+C:\Users\user\Desktop\mad home\obj\Debug\mad home.exe.config
