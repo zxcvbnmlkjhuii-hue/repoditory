@@ -2,65 +2,191 @@
 
 void main()
 {
-#pragma region 변수
-	// 데이터를 저장할 수 있는 메모리 공간을 생성하는 것입니다.
-# pragma region 자료형
-	// 데잍터를 저장하기 위해 데이터의 형태를 정해주는 것입니다.
+#pragma region 조건문
+	// 어떤 조건이 주어질 때 해당 조건에 따라 동작을
+	// 수행하도록 실행하는 명령문입니다.
+#pragma region 관계 연산자
+	// 두 개의 피연산자의 값을 비교하여 그 결과를 0 또는
+	// 1이라도 값으로 나타내는 연산자입니다.
 
-	// 자료형은 각각의 자료형마다 크기가 정해져 있으며, 자료형의
-	// 크기는 바이트 단위로 이루어져 있으며, 자료형의 경우 자료형에
-	// 따ㅏ라 저장할 수 있는 값의 종류와 범위가 결정됩니다.
+	//int accuracy = 10;
+	//int attack = 20;
+
+	//printf("accuracy < attack : %d\n", accuracy < attack);
+
+	//printf("accuracy > attack : %d\n", accuracy > attack);
+
+	//printf("accuracy <= attack : %d\n", accuracy <= attack);
+
+	//printf("accuracy >= attack : %d\n", accuracy >= attack);
+
+	//printf("accuracy != attack : %d\n", accuracy != attack);
+
+	//printf("accuracy == attack : %d\n", accuracy == attack);
+
+	// 관계 연산자는 조건이 맞을 때 1이라는 값으로 반환되며,
+	// 조건이 틀릴 때는 0이라는 값으로 반환됩니다.
 #pragma endregion
+#pragma region if문
+	// 어떤 특정한 조건을 비교하여 조건이 맞나면 실행되는
+	// 명령문입니다.
 
-#pragma region 변수의 이름 규칙
+	//int health = 0;
+	//if (health <= 0)
+	//{
+	//	printf("destroy");
+	//}
 
-	// 1. 변수 이름은 대소문자를 구분합니다.
-    // ex)int health;
-	// ex)int HEALTH;
-
-	// 2. 변수의 이름으로 예약어를 사용할 수 없습니다.
-	// ex) char char;X
-	
-	// 3. 변수의 이름에는 공백이 포함될 수 없습니다
-	// ex) fliat time Dellta;X
-
-	// 4. 변수의 이름으로 트거수 무너자 "_". "$"만 상용할 수 있습니다.
-	// ex)short under_score;
-	// ex)long currency$;
-
-	// 5. 변수의 이름은 숫자로 시작할 수 없습니다.
-	// ex)int yeat2025;
-	// ex)int 5day;X
+	// if문은 조건이 1일 때 실행되며, 0일 때 실행되지 않습니다.
 
 
 #pragma endregion
+#pragma region else if문
+	// if문의 조건이 틀릴 때 else if문의 조건이
+	// 맞다면 실행되는 명령문입니다.
 
-#pragma region 서식 지정자
-	// 변수의 값을 출력하기 위한 자료형의 정보를 명시적으로
-	// 지정해주는 것입니다.
+	//int level = 1;
 
-	char character = 'A';
-	int num = 10;
-	float car = 5.5f;
+	//if (level < 1)
+	//{
+	//	
+	//	printf("destroyA");
+	//}
+	//else if(level >= 1)
+	//{
+	//	printf("destroy");
+	//}
 
-	// 서식 지정자의 경우 하나의 표준 출력 함수에 여러 개의
-	// 서식을 넣을 수 있으며, 서식 지정자의 순서는 왼쪽에서
-	// 부터 시작합니다.
+	// else if문은 여러번 정의할 수 있으며,if문이
+	// 존재할 때 사용 할 수 있습니다.
+#pragma endregion
+#pragma region  else문
+	// if문과 else if문의 조건이 다 틀리면
+	// 실행되는 명령문입니다.
+	//int integer = 0;
 
-	printf("character : %c \nnum : %d \ncar : %f", character,num,car);	
-	
-	
 
-	// 서식 지정자는 각각의 서식에 따라 원하는 데이터를 출력
-	// 할 수 있으며. 서식과 변수의 형태가 일치하지 않으면
-	// 원하는 값이 출력되지 않습니다.
+	//	if (integer > 0)
+	//	{
+	//		printf("+");
+	//	}
+	//	else if (integer < 0)
+	//	{
+	//		printf("-");
+	//	}
+	//	else
+	//	{
+	//		printf("integer");
+	//	}
 
-	
+		// if문에 연결된 모든 조건문이 조건이 맞을 때
+		// 가장 위에 있는 조건문만 실행됩니다.
+#pragma endregion
+#pragma region switch문
+	// 어떤 결과에 따라 그  결과부터 실행되는 명령문입니다.
+	//char grade = 'K';
 
-	
+	//// switch문은 해당 조건이 완료되었을 때, break문이 없으면
+	//// 나머지 밑에 있는 case 문까지 계속 실행시키다가 종료합니다.
+	//
+	//switch (grade)
+	//{
+	//case 'F' :
+	//	printf("60점 이하입니다.\n");
+	//	break;
+	//case 'D':
+	//	printf("61~69점 입니다.\n");
+	//	break;
+	//case 'C':
+	//	printf("70~79점 입니다.\n");
+	//	break;
+	//case 'B':
+	//	printf("80~89점 입니다.\n");
+	//	break;
+	//case 'A':
+	//	printf("90~100점 입니다.\n");
+	//	break;
+	//default:
+	//	printf("exception\n");
+	//	break;
+	// switch문의 경우 조건에 해당하는 값에 따라 조건의
+	// 위치로 이동합니다.
+
+#pragma endregion
+#pragma region 논리 연산자
+
+#pragma region AND 연산자
+	// 두 개의 조건이 다 성립될 때 실행되는 연산자입니다.
+
+	//int a = 1;
+	//int b = 2;
+	//if(a > 0 && b > 0)
+	//{
+	//	printf("true");
+	//}
+
+	//  조건문에서 하나 이상의 조건이 있다면 오니쪽부터 조건을 검사합니다.
+
+#pragma endregion
+#pragma region ON 연산자
+// 두 개의 조건 중에서 하나라도 조건이 성립될 때 실행되는 연산자입니다.
+	//int a = 90;
+	//int b = 101;
+	//if(a > 100 || b > 100)
+	//{
+	//	printf("true");
+	//}
+	//// 조건문의 논리 표현식을 평가하는 도중에 결과가 이미 확정이 났다면, 그 이후의 평가는 생략합니다,
+
+
+#pragma endregion
+#pragma region  NOT 연산자
+// 하나의 조건을 반전시키는 연산자입니다.
+//int power = 1;
+//
+//if (!power)
+//{
+//	printf("on");
+//}
+//
+//else
+//{
+//printf("off");
+//}
 #pragma endregion
 
 #pragma
 #pragma endregion
+#pragma region 사분면
+int x = 0;
+int y = -1;
+
+if (x > 0 && y > 0)
+{
+	printf("제 1 사분면");
+}
+
+ if (x < 0 && y > 0)
+{
+	printf("제 2 사분면");
+}
+ if (x < 0 && y < 0)
+{
+	printf("제 3 사분면");
+}
+ if (x > 0 && y < 0)
+{
+	printf("제 4 사분면");
+}
+else if (x = 0 )
+{
+	printf("X 절편");
+}
+else if ( y = 0)
+{
+	printf("Y 절편");
+}
+#pragma endregion
+
 
 }
