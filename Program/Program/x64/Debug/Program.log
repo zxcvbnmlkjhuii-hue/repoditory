@@ -1,2 +1,6 @@
 ﻿  source.c
+<<<<<<< HEAD
   Program.vcxproj -> C:\Users\user\OneDrive\Desktop\repoditory-main\Program\x64\Debug\Program.exe
+=======
+  Program.vcxproj -> C:\Users\user\OneDrive\Desktop\새 폴더\Program\x64\Debug\Program.exe
+>>>>>>> 9c2e0bee3c391fd3ccc5ba5a6d8ce234eaec3ca2

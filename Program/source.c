@@ -59,6 +59,37 @@ void main()
 
 	// else if문은 여러번 정의할 수 있으며,if문이
 	// 존재할 때 사용 할 수 있습니다.
+<<<<<<< HEAD
+=======
+#pragma endregion
+#pragma region  else문
+	// if문과 else if문의 조건이 다 틀리면
+	// 실행되는 명령문입니다.
+
+<<<<<<< HEAD
+	int integer = 0;
+=======
+	printf("character : %c \nnum : %d \ncar : %f", character,num,car);	
+	
+	
+>>>>>>> 5ff6dfcf5f946dbad21e93f3f4ff2417149b9be5
+
+		if (integer > 0)
+		{
+			printf("+");
+		}
+		else if (integer < 0)
+		{
+			printf("-");
+		}
+		else
+		{
+			printf("integer");
+		}
+
+		// if문에 연결된 모든 조건문이 조건이 맞을 때
+		// 가장 위에 있는 조건문만 실행됩니다.
+>>>>>>> 9c2e0bee3c391fd3ccc5ba5a6d8ce234eaec3ca2
 #pragma endregion
 #pragma region  else문
 	// if문과 else if문의 조건이 다 틀리면
@@ -138,7 +169,7 @@ void main()
 	//}
 	//// 조건문의 논리 표현식을 평가하는 도중에 결과가 이미 확정이 났다면, 그 이후의 평가는 생략합니다,
 
-
+#pragma
 #pragma endregion
 #pragma region  NOT 연산자
 // 하나의 조건을 반전시키는 연산자입니다.
@@ -187,6 +218,7 @@ else if ( y = 0)
 	printf("Y 절편");
 }
 #pragma endregion
+
 
 
 }
