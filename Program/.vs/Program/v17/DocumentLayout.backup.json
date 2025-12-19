@@ -1,15 +1,5 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\repoditory-main\\Program\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{C1944E08-DC27-45C3-BFBC-19EFDE44FE4A}|Program.vcxproj|C:\\Users\\user\\OneDrive\\Desktop\\repoditory-main\\Program\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C1944E08-DC27-45C3-BFBC-19EFDE44FE4A}|Program.vcxproj|solutionrelative:source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EFB842C-77BE-4328-BBCE-E5560A6C3A31}|..\\class4th (Overflow\u0026underflow)\\class4th (Overflow\u0026underflow).vcxproj|C:\\Users\\user\\OneDrive\\Desktop\\repoditory-main\\class4th (Overflow\u0026underflow)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-=======
   "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\\uC0C8 \uD3F4\uB354\\Program\\",
   "Documents": [
     {
@@ -17,13 +7,15 @@
       "RelativeMoniker": "D:0:0:{C1944E08-DC27-45C3-BFBC-19EFDE44FE4A}|Program.vcxproj|solutionrelative:source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+<<<<<<< HEAD
+=======
       "AbsoluteMoniker": "D:0:0:{5EFB842C-77BE-4328-BBCE-E5560A6C3A31}|..\\class4th (Overflow\u0026underflow)\\class4th (Overflow\u0026underflow).vcxproj|C:\\Users\\user\\OneDrive\\Desktop\\\uC0C8 \uD3F4\uB354\\class4th (Overflow\u0026underflow)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
->>>>>>> 9c2e0bee3c391fd3ccc5ba5a6d8ce234eaec3ca2
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\GitHub\\repoditory\\class1th (compile)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+>>>>>>> 9c2e0bee3c391fd3ccc5ba5a6d8ce234eaec3ca2
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\\uC0C8 \uD3F4\uB354\\classs3th (bit)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -31,6 +23,15 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\\uC0C8 \uD3F4\uB354\\class1th (compile)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+<<<<<<< HEAD
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\OneDrive\\Desktop\\repoditory-main\\class4th (Overflow\u0026underflow)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC42D9F6-4552-41BC-950A-D319EA64E6DB}|..\\class1th (compile)\\class1th (compile).vcxproj|C:\\Users\\user\\Documents\\GitHub\\repoditory\\class1th (compile)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+=======
+>>>>>>> 9c2e0bee3c391fd3ccc5ba5a6d8ce234eaec3ca2
     }
   ],
   "DocumentGroupContainers": [
@@ -64,16 +65,21 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "source.c",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\repoditory-main\\class4th (Overflow\u0026underflow)\\source.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OneDrive\\Desktop\\repoditory-main\\class4th (Overflow\u0026underflow)\\source.c",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\repoditory-main\\class4th (Overflow\u0026underflow)\\source.c",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Desktop\\repoditory-main\\class4th (Overflow\u0026underflow)\\source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-17T10:46:42.63Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "source.c",
 <<<<<<< HEAD
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\repoditory-main\\class4th (Overflow\u0026underflow)\\source.c",
-              "RelativeDocumentMoniker": "..\\class4th (Overflow\u0026underflow)\\source.c",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\repoditory-main\\class4th (Overflow\u0026underflow)\\source.c",
-              "RelativeToolTip": "..\\class4th (Overflow\u0026underflow)\\source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-12-17T10:46:42.63Z",
 =======
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\\uC0C8 \uD3F4\uB354\\class4th (Overflow\u0026underflow)\\source.c",
               "RelativeDocumentMoniker": "..\\class4th (Overflow\u0026underflow)\\source.c",
@@ -82,13 +88,13 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-12-16T11:45:33.951Z",
->>>>>>> 9c2e0bee3c391fd3ccc5ba5a6d8ce234eaec3ca2
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "source.c",
+>>>>>>> 9c2e0bee3c391fd3ccc5ba5a6d8ce234eaec3ca2
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uC0C8 \uD3F4\uB354\\classs3th (bit)\\source.c",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Desktop\\\uC0C8 \uD3F4\uB354\\classs3th (bit)\\source.c",
               "ToolTip": "C:\\Users\\user\\Desktop\\\uC0C8 \uD3F4\uB354\\classs3th (bit)\\source.c",
@@ -99,7 +105,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 2,
+=======
               "DocumentIndex": 4,
+>>>>>>> 9c2e0bee3c391fd3ccc5ba5a6d8ce234eaec3ca2
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uC0C8 \uD3F4\uB354\\Class2th (Variable \u0026 Constant)\\source.c",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Desktop\\\uC0C8 \uD3F4\uB354\\Class2th (Variable \u0026 Constant)\\source.c",
@@ -111,14 +121,35 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 3,
+=======
               "DocumentIndex": 5,
+>>>>>>> 9c2e0bee3c391fd3ccc5ba5a6d8ce234eaec3ca2
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uC0C8 \uD3F4\uB354\\class1th (compile)\\source.c",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Desktop\\\uC0C8 \uD3F4\uB354\\class1th (compile)\\source.c",
               "ToolTip": "C:\\Users\\user\\Desktop\\\uC0C8 \uD3F4\uB354\\class1th (compile)\\source.c",
               "RelativeToolTip": "..\\..\\..\\..\\Desktop\\\uC0C8 \uD3F4\uB354\\class1th (compile)\\source.c",
+<<<<<<< HEAD
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-12T10:08:24.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "source.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\repoditory\\class1th (compile)\\source.c",
+              "RelativeDocumentMoniker": "..\\class1th (compile)\\source.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\repoditory\\class1th (compile)\\source.c",
+              "RelativeToolTip": "..\\class1th (compile)\\source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+<<<<<<< HEAD
               "WhenOpened": "2025-12-12T10:08:24.341Z"
             },
             {
@@ -131,28 +162,27 @@
               "RelativeToolTip": "..\\..\\..\\..\\Documents\\GitHub\\repoditory\\class1th (compile)\\source.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+=======
+>>>>>>> 5ff6dfcf5f946dbad21e93f3f4ff2417149b9be5
+>>>>>>> 9c2e0bee3c391fd3ccc5ba5a6d8ce234eaec3ca2
               "WhenOpened": "2025-12-11T11:23:46.636Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "source.c",
-<<<<<<< HEAD
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\repoditory-main\\Program\\source.c",
-              "RelativeDocumentMoniker": "source.c",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\repoditory-main\\Program\\source.c",
-              "RelativeToolTip": "source.c",
-              "ViewState": "AgIAAKwAAAAAAAAAAAAYwLsAAAABAAAAAAAAAA==",
-=======
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\\uC0C8 \uD3F4\uB354\\Program\\source.c",
               "RelativeDocumentMoniker": "source.c",
 <<<<<<< HEAD
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\repoditory\\Program\\source.c*",
+              "RelativeToolTip": "source.c*",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAYwHgAAAANAAAAAAAAAA==",
+=======
               "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\\uC0C8 \uD3F4\uB354\\Program\\source.c",
               "RelativeToolTip": "source.c",
+<<<<<<< HEAD
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
 =======
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\repoditory\\Program\\source.c",
-              "RelativeToolTip": "source.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAHAAAAAAAAAA==",
 >>>>>>> 5ff6dfcf5f946dbad21e93f3f4ff2417149b9be5
 >>>>>>> 9c2e0bee3c391fd3ccc5ba5a6d8ce234eaec3ca2

@@ -66,26 +66,25 @@ void main()
 	// if문과 else if문의 조건이 다 틀리면
 	// 실행되는 명령문입니다.
 
-<<<<<<< HEAD
-	int integer = 0;
-=======
-	printf("character : %c \nnum : %d \ncar : %f", character,num,car);	
-	
-	
->>>>>>> 5ff6dfcf5f946dbad21e93f3f4ff2417149b9be5
 
-		if (integer > 0)
-		{
-			printf("+");
-		}
-		else if (integer < 0)
-		{
-			printf("-");
-		}
-		else
-		{
-			printf("integer");
-		}
+
+	//printf("character : %c \nnum : %d \ncar : %f", character,num,car);	
+	//
+	//
+
+
+	//	if (integer > 0)
+	//	{
+	//		printf("+");
+	//	}
+	//	else if (integer < 0)
+	//	{
+	//		printf("-");
+	//	}
+	//	else
+	//	{
+	//		printf("integer");
+	//	}
 
 		// if문에 연결된 모든 조건문이 조건이 맞을 때
 		// 가장 위에 있는 조건문만 실행됩니다.
@@ -189,34 +188,34 @@ void main()
 #pragma
 #pragma endregion
 #pragma region 사분면
-int x = 0;
-int y = -1;
+//int x = 0;
+//int y = -1;
 
-if (x > 0 && y > 0)
-{
-	printf("제 1 사분면");
-}
-
- if (x < 0 && y > 0)
-{
-	printf("제 2 사분면");
-}
- if (x < 0 && y < 0)
-{
-	printf("제 3 사분면");
-}
- if (x > 0 && y < 0)
-{
-	printf("제 4 사분면");
-}
-else if (x = 0 )
-{
-	printf("X 절편");
-}
-else if ( y = 0)
-{
-	printf("Y 절편");
-}
+//if (x > 0 && y > 0)
+//{
+//	printf("제 1 사분면");
+//}
+//
+// if (x < 0 && y > 0)
+//{
+//	printf("제 2 사분면");
+//}
+// if (x < 0 && y < 0)
+//{
+//	printf("제 3 사분면");
+//}
+// if (x > 0 && y < 0)
+//{
+//	printf("제 4 사분면");
+//}
+//else if (x = 0 )
+//{
+//	printf("X 절편");
+//}
+//else if ( y = 0)
+//{
+//	printf("Y 절편");
+//}
 #pragma endregion
 
 
