@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\repoditory\\pay\\pay.csproj",
+      "projectUniqueName": "C:\\Users\\user\\OneDrive\\Desktop\\repoditory-main - 복사본\\pay\\pay.csproj",
       "projectName": "pay",
-      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\repoditory\\pay\\pay.csproj",
+      "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\repoditory-main - 복사본\\pay\\pay.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\repoditory\\pay\\obj\\",
+      "outputPath": "C:\\Users\\user\\OneDrive\\Desktop\\repoditory-main - 복사본\\pay\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

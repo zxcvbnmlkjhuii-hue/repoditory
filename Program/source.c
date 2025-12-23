@@ -1,221 +1,112 @@
 #include<stdio.h>
 
 void main()
+
 {
-#pragma region 조건문
-	// 어떤 조건이 주어질 때 해당 조건에 따라 동작을
-	// 수행하도록 실행하는 명령문입니다.
-#pragma region 관계 연산자
-	// 두 개의 피연산자의 값을 비교하여 그 결과를 0 또는
-	// 1이라도 값으로 나타내는 연산자입니다.
+#pragma region  주소 연산자
+	// 변수의 주소 값을 반환하는 연산자입니다.
 
-	//int accuracy = 10;
-	//int attack = 20;
+	/*int data = 10;
 
-	//printf("accuracy < attack : %d\n", accuracy < attack);
+	printf("%p", &data);*/
 
-	//printf("accuracy > attack : %d\n", accuracy > attack);
-
-	//printf("accuracy <= attack : %d\n", accuracy <= attack);
-
-	//printf("accuracy >= attack : %d\n", accuracy >= attack);
-
-	//printf("accuracy != attack : %d\n", accuracy != attack);
-
-	//printf("accuracy == attack : %d\n", accuracy == attack);
-
-	// 관계 연산자는 조건이 맞을 때 1이라는 값으로 반환되며,
-	// 조건이 틀릴 때는 0이라는 값으로 반환됩니다.
-#pragma endregion
-#pragma region if문
-	// 어떤 특정한 조건을 비교하여 조건이 맞나면 실행되는
-	// 명령문입니다.
-
-	//int health = 0;
-	//if (health <= 0)
-	//{
-	//	printf("destroy");
-	//}
-
-	// if문은 조건이 1일 때 실행되며, 0일 때 실행되지 않습니다.
-
+	// 데이터의 주소는 해당 데이터가 저장된 메모리의 시작 주소를
+	// 의미하며, 메모리의 공간은 byte의 크기로 나누어 표현합니다.
 
 #pragma endregion
-#pragma region else if문
-	// if문의 조건이 틀릴 때 else if문의 조건이
-	// 맞다면 실행되는 명령문입니다.
 
-	//int level = 1;
+#pragma region 표준 입력 함수
+	// 여러 종류의 데이터를 다양한 서식에 맞추어
+	// 입력해주는 함수입니다.
+	//int x = 0;
 
-	//if (level < 1)
-	//{
-	//	
-	//	printf("destroyA");
-	//}
-	//else if(level >= 1)
-	//{
-	//	printf("destroy");
-	//}
+	//// 표준 입력 함수는 입력을 수행할 때까지 다음 작업으로
+	//// 넘어갈 수 없습니다.
+	//printf("x 변수의 값을 입력 :");
 
-	// else if문은 여러번 정의할 수 있으며,if문이
-	// 존재할 때 사용 할 수 있습니다.
-<<<<<<< HEAD
-=======
-#pragma endregion
-#pragma region  else문
-	// if문과 else if문의 조건이 다 틀리면
-	// 실행되는 명령문입니다.
+	//scanf_s("%d", &x);
 
+	//// 버퍼는 데이터가 이동할 때 임시로 저장되는 공간이며,
+	//// 서식 지정자에 따라 입력할 수 있는 데이터의 범위도 결정됩니다,
 
-
-	//printf("character : %c \nnum : %d \ncar : %f", character,num,car);	
+	//printf("x의 값 : %d", x);
 	//
-	//
+	// 표준 입력 함수로 데이터를 입력하게 되면 버퍼에 데이터를 보관
+	// 하였다가 입력하는 순간 버퍼 안의 내용을 프로그램에 전송합니다.
 
-
-	//	if (integer > 0)
-	//	{
-	//		printf("+");
-	//	}
-	//	else if (integer < 0)
-	//	{
-	//		printf("-");
-	//	}
-	//	else
-	//	{
-	//		printf("integer");
-	//	}
-
-		// if문에 연결된 모든 조건문이 조건이 맞을 때
-		// 가장 위에 있는 조건문만 실행됩니다.
->>>>>>> 9c2e0bee3c391fd3ccc5ba5a6d8ce234eaec3ca2
-#pragma endregion
-#pragma region  else문
-	// if문과 else if문의 조건이 다 틀리면
-	// 실행되는 명령문입니다.
-	//int integer = 0;
-
-
-	//	if (integer > 0)
-	//	{
-	//		printf("+");
-	//	}
-	//	else if (integer < 0)
-	//	{
-	//		printf("-");
-	//	}
-	//	else
-	//	{
-	//		printf("integer");
-	//	}
-
-		// if문에 연결된 모든 조건문이 조건이 맞을 때
-		// 가장 위에 있는 조건문만 실행됩니다.
-#pragma endregion
-#pragma region switch문
-	// 어떤 결과에 따라 그  결과부터 실행되는 명령문입니다.
-	//char grade = 'K';
-
-	//// switch문은 해당 조건이 완료되었을 때, break문이 없으면
-	//// 나머지 밑에 있는 case 문까지 계속 실행시키다가 종료합니다.
-	//
-	//switch (grade)
-	//{
-	//case 'F' :
-	//	printf("60점 이하입니다.\n");
-	//	break;
-	//case 'D':
-	//	printf("61~69점 입니다.\n");
-	//	break;
-	//case 'C':
-	//	printf("70~79점 입니다.\n");
-	//	break;
-	//case 'B':
-	//	printf("80~89점 입니다.\n");
-	//	break;
-	//case 'A':
-	//	printf("90~100점 입니다.\n");
-	//	break;
-	//default:
-	//	printf("exception\n");
-	//	break;
-	// switch문의 경우 조건에 해당하는 값에 따라 조건의
-	// 위치로 이동합니다.
 
 #pragma endregion
-#pragma region 논리 연산자
 
-#pragma region AND 연산자
-	// 두 개의 조건이 다 성립될 때 실행되는 연산자입니다.
+#pragma region 포인터
+	// 메모리의 주소 값을 저장할 수 있는 변수입니다.
 
-	//int a = 1;
-	//int b = 2;
-	//if(a > 0 && b > 0)
-	//{
-	//	printf("true");
-	//}
-
-	//  조건문에서 하나 이상의 조건이 있다면 오니쪽부터 조건을 검사합니다.
-
-#pragma endregion
-#pragma region ON 연산자
-// 두 개의 조건 중에서 하나라도 조건이 성립될 때 실행되는 연산자입니다.
-	//int a = 90;
-	//int b = 101;
-	//if(a > 100 || b > 100)
-	//{
-	//	printf("true");
-	//}
-	//// 조건문의 논리 표현식을 평가하는 도중에 결과가 이미 확정이 났다면, 그 이후의 평가는 생략합니다,
-
-#pragma
-#pragma endregion
-#pragma region  NOT 연산자
-// 하나의 조건을 반전시키는 연산자입니다.
-//int power = 1;
+//	int storage = 10;
+//	int room = 20;
+//	int * pointer = &storage;
+//	
+//	/// 포인터가 가리키는 메모리 공간의 자료형은 알 수 없으므로,
+//	// 포인터가 가리키는 메모리의 자료형을 선언해주어야 합니다.
 //
-//if (!power)
-//{
-//	printf("on");
-//}
+//	printf("storage의 주소 %p\n", &storage);	
+//	printf("pointer의 값 %p\n", pointer);
+//	printf("pointer의 주소 %p\n", &pointer);
+//	*pointer = 99;
+//	printf("storage의 값 %d\n", storage);
+//	printf("pointer변수가 가리키는 값 %d\n", *pointer);
+//	
+//	pointer = &room;
 //
-//else
-//{
-//printf("off");
-//}
+//	printf("storage의 값 %p\n", pointer);
+//	printf("room변수가 가리키는 값 %d\n", *pointer);
+//
+//	// 포인터 변수도 자신의 메모리 공간으 가지고 있으며, 포인터 변수에
+//	// 변수의 주소를 저장하게 되면 해당 변수의 시작 주소를 가림킵니다.
+//
+//	printf("int의 크기 : %u\n", sizeof(int));
+//	printf("pointer의 크기 : %u\n", sizeof(pointer));
+//	// 포인터 변수의 크기는 중앙 처리 장치가 한 번에 처리할 수 있는
+//	// 크기로 정해지며, 한 번에 처리할 수 있는 크기는 운영체제에 따라 크기가 결정됩니다.
+//
 #pragma endregion
 
-#pragma
-#pragma endregion
-#pragma region 사분면
-//int x = 0;
-//int y = -1;
+#pragma region 범용 포인터
+	// 자료형이 정해지지 않은 상태로 모든 자료형을
+	// 저장할 수 있는 포인터입니다.
 
-//if (x > 0 && y > 0)
-//{
-//	printf("제 1 사분면");
-//}
-//
-// if (x < 0 && y > 0)
-//{
-//	printf("제 2 사분면");
-//}
-// if (x < 0 && y < 0)
-//{
-//	printf("제 3 사분면");
-//}
-// if (x > 0 && y < 0)
-//{
-//	printf("제 4 사분면");
-//}
-//else if (x = 0 )
-//{
-//	printf("X 절편");
-//}
-//else if ( y = 0)
-//{
-//	printf("Y 절편");
-//}
+	//char a = 'A';
+	//int b = 10;
+	//float c = 3.14f;
+
+	//// 범용 포인터는 메모리 주소에 접근해서 값을
+	//// 변경할 수 없습니다.
+	//void* reference = &a;
+	//*(char*)reference = 'B';
+	//printf("%c\n", a);
+	//reference = &b;
+	//*(int*)reference = 20;
+	//printf("%d\n", b);
+	//reference = &c;
+	//*(float*)reference = 4.12f;
+	//printf("%f\n", c);
+
+
+	// 범용 포인터로 변수의 메모리에 접근하려면 범용 포인터가
+	// 가리키는 변수의 자료형으로 변환해주어야 합니다.
+
+
+
+#pragma endregion
+
+#pragma region 상수 지시 포인터
+// 포인터가 가리키는 주소에 저장되어 있는 값을 변경할 수 없도록 
+// 지정되어 있는 포이터입니다.
+
+	int z = 20;
+	int y = 10;
+	const int* fixcdPoninter = &y;
+	//*fixcdPoninter = 20;
+	fixcdPoninter = &z;
+	printf("%d", fixcdPoninter);
 #pragma endregion
 
 

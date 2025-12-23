@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Documents\\GitHub\\repoditory\\ConsoleApp3\\ConsoleApp3.csproj": {}
+    "C:\\Users\\user\\OneDrive\\Desktop\\repoditory-main - 복사본\\ConsoleApp3\\ConsoleApp3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Documents\\GitHub\\repoditory\\ConsoleApp3\\ConsoleApp3.csproj": {
+    "C:\\Users\\user\\OneDrive\\Desktop\\repoditory-main - 복사본\\ConsoleApp3\\ConsoleApp3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\repoditory\\ConsoleApp3\\ConsoleApp3.csproj",
+        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Desktop\\repoditory-main - 복사본\\ConsoleApp3\\ConsoleApp3.csproj",
         "projectName": "ConsoleApp3",
-        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\repoditory\\ConsoleApp3\\ConsoleApp3.csproj",
+        "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\repoditory-main - 복사본\\ConsoleApp3\\ConsoleApp3.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\repoditory\\ConsoleApp3\\obj\\",
+        "outputPath": "C:\\Users\\user\\OneDrive\\Desktop\\repoditory-main - 복사본\\ConsoleApp3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
