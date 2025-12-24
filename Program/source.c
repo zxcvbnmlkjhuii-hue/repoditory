@@ -106,7 +106,7 @@ void main()
 	const int* fixcdPoninter = &y;
 	//*fixcdPoninter = 20;
 	fixcdPoninter = &z;
-	printf("%d", fixcdPoninter);
+	printf("%d", *fixcdPoninter);
 #pragma endregion
 
 
