@@ -1,91 +1,72 @@
 #include<stdio.h>
 
+int health = 5;
 
-
-
-
-void main()
-
+void render()
 {
-#pragma region 함수
-	 // 하나의 특별한 목적의 작없을 수행하기 위해
-	 // 독립적으로 설계된 코드의 집합입니다.
+	for (int i = 0; i < health; i++)
+	{
+		printf("♥");
 
-	//initialize();
-
-
-#pragma endregion
-
-#pragma region 인수
-	// 한수가 호출될 떄 매개 변수에 실제로 전달되는 값입니다,
-
-	//int x = 10;
-	//int y = 20;
-
-	//swap(&x, &y);
-	//
-	//printf("x의 값 : %d y의 값 : %d", x, y);
-
-	// 인수의 경우 함수에 있는 매개 변수에 따라 전달할 수 있는
-	// 인수의 수가 결정되며, 값을 전달하는 인수와 값을 전달 받는
-	// 매개 변수의 자료형이 서로 일치해야 합니다
-#pragma endregion
-
-#pragma region 반환형
-	// 함수가 실행을 마치고, 호출한 쪽으로 어떤 자료형의 값을
-	// 반환할 지 미리 알려주는 형식입니다.
-
-	//printf("%d\n", absolute(-9));
-
-	// 함수의 경우 자료형과 반환하는 값의 형태가
-	// 일치하지 않으면 이ㅝㄴ하는 ㄱ밧을 얻을 수 없습니다.
-
+	}
+}
+void main()
+{
+#pragma region  메모리 영역
 
 #pragma endregion
+#pragma region 지역 변수
+	// 함수 내부에서 선언된 변수로 함수 내부에서만 접근할 수 있으며,
+	// 함수가 종료되었을 떄 메모리에서 사라지는 특징르 가지고 있는 변수입니다.
 
-#pragma region 재귀 함수
-	// 어떤 한수에서 자신을 다시 호출하여 작없을
-	// 수행하는 함수입니다.
-	//void function(int x)
-	//{
+	/*int x = 10;
+	{
+		int x = 20; 
+		printf("{}안  %d\n", x);
+	}
+	printf("{}밖  %d", x);*/
+#pragma endregion
 
-	//	if (x <= 0)
-	//	{
-	//		return;
-	//	}
-	//	printf("%d", x);
-
-	//	function(x - 1);
-
-	//	return x;
-
-	//function(3);
-
-	//
+#pragma region 전역 변수
+	// 함수 외부에서 선언된 변수로 프로그램이 실행될 때
+	// 메모리에 올라가게 되며, 프로그램이 종료되면 메모
+	// 리에서 행당되는 변수입니다.
 	
-	// 재귀 함수는 함수를 계속 호출하기 떄문에 스택 영역에 
-	// 메모리가 계속 싸이게 되므로 스택 오버플로우가 발생합니다.
-#pragma endregion
-
-#pragma region 인라인 함수
-	// 함수를 호출하신 대신 함수가 호출되는 위치마다
-	// 함수의 코드를 복사하여 전달하는 방식의 합수이다
-	//inline int square(int x)
-	//{
-	//	return x * x;
-
-	//}
-
-
-
-	//printf("%d\n", square(4));
-
-	// 인라인 함수는 함수를 호출하는 과정이 없으므로 처리 속도가
-	// 빠르지만, 인라인 함수를 많이 사용하게 되면 함수의 코드가
-	// 복사되기 떄문에 실제 파일의 크기가 커지게 됩니다.
+	render();
+	health = -1;
+	render();
 #pragma endregion
 
 
+
+#pragma region  CODE 영역
+	// 프로그램을 실행하기 위해 필요한 코드가 저장되는 영역으로
+	// 함수의 주소와 상수가 저장되는 메모리 영역입니다.
+#pragma endregion
+
+#pragma region  DATA 영역
+	// 프로그램의 싲가과 함꼐 메모리에  저장되며, 프로그램이
+	// 종료될 떄 메모리가 해제되는 영역입니다.
+
+#pragma endregion
+
+#pragma region BSS 영역
+	// 프로그램이 실행될 때 초기화가 이루어지지 않는 전역 변수와
+	// 정적 변수가 지정되는 메모리 영역입니다.
+#pragma endregion
+
+#pragma region STACK 영역
+	// 프로그램이 자동으로 사용하는 임시 메모리 영역으로
+	// 함수 호출 시 ㅈ생성되는 지역 변수와 매개 변수가 저장
+	// 되는 메모리 영역입니다.
+
+#pragma endregion
+
+#pragma region HEAP 영역
+	// 사용자가 직접 메모리 공간을 할당해주는 메모리 영역
+	// 이며, 사용하지 않는 경우 사용자가 직접 메모리를
+	// 해제해야 되는 메모리 영역입니다.
+#pragma endregion
 
 
 
